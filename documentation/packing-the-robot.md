@@ -1,7 +1,7 @@
 ---
 layout: default
-nav_order: 2
+nav_order: 6
 parent: Documentation
 ---
 
-# Unpacking the Robot
+# Packing the Robot
