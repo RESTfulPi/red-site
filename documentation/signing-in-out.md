@@ -1,7 +1,7 @@
 ---
 layout: default
-nav_order: 7
+nav_order: 1
 parent: Documentation
 ---
 
-# Signing out
+# Signing in/out
