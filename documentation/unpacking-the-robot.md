@@ -14,14 +14,15 @@ Keep all parts in each case with that robot; The parts are unique to each of the
 
 ## Unpacking Process
 
-Two people are required to unpack the robot. The process is as follows:
+Two people are required to unpack the robot.
 
-1. Remove all foam and parts on top of the robot
-2. Slowly bend the knees and bring the feet flat onto the backboard
-3. Bring the hands together at the abdomen and secure them with the restraints
-4. Lift the robot out of the case using the rope at the head and feet
-5. Carefully lower the robot onto the floor
-6. Slide the backboard out from under the robot
-7. Grab the robot by the handle between the shoulders and pivot the upper body forward
+1. Unlock and open the case
+2. Remove all foam and parts on top of the robot
+3. Slowly bend the knees and bring the feet flat onto the backboard
+4. Bring the hands together at the abdomen and secure them with the restraints
+5. Lift the robot out of the case using the rope at the head and feet
+6. Carefully lower the robot onto the floor
+7. Slide the backboard out from under the robot
+8. Grab the robot by the handle between the shoulders and pivot the upper body forward
 
 The robot should now be in a squatting position and is ready for the turn on sequence.

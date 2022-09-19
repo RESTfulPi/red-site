@@ -28,6 +28,7 @@ github_username:  4850-robots
 
 # Build settings
 theme: just-the-docs
+color_scheme: dark
 plugins:
   - jekyll-feed
 
