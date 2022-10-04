@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Documentation
-permalink: /documentation/
-nav_order: 2
+title: API
+permalink: /api/
+nav_order: 3
 has_children: true
 has_toc: true
 ---
 
-# Documentation
+# API

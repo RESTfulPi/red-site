@@ -18,17 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: UXA90-Light Documentation
-email: sperry46@kennesaw.edu
+title: RESTful Robots
+email: alovele1@students.kennesaw.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Documentation for UXA90-Light Robot.
+  Documentation of the REST API created for UXA90-Light robots.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://4850-robots.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  4850-robots
+url: "https://4850-red.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  4850-red
+
+back_to_top: true
+back_to_top_text: "Back to top"
 
 # Build settings
 theme: just-the-docs
-color_scheme: dark
+color_scheme: robots
 plugins:
   - jekyll-feed
 
