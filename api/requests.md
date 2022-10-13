@@ -13,56 +13,53 @@ This page lists all of the available requests in the API.
 {:toc}
 
 ---
-## Request 1
+## Stand Up
 {: .d-inline}
 
-GET
-{: .label .label-blue .mx-auto .d-inline}
 POST
-{: .label .label-green .mx-auto .d-inline}
+{: .label .label-blue .mx-auto .d-inline}
 
 ### Example
 {: .no_toc}
 ```
-example.com/api/...
+localhost:3000/move/stand-up
 ```
 
 ### Response
 {: .no_toc}
 ```json
 {
-    "response":"0"
+    "response":"1"
 }
 ```
 
 ### Notes
 {: .no_toc}
-This is an API request.
+If response is not 1, see maintenance manual for error codes.
 
 ---
-## Request 2
+## Motor Information
 {: .d-inline}
 
 GET
-{: .label .label-blue .mx-auto .d-inline}
-POST
 {: .label .label-green .mx-auto .d-inline}
 
 ### Example
 {: .no_toc}
 ```
-example.com/api/...
+localhost:3000/motor/31
 ```
 
 ### Response
 {: .no_toc}
 ```json
 {
-    "response":"0"
+    "angle":"270",
+    "status":"1"
 }
 ```
 
 ### Notes
 {: .no_toc}
-This is an API request.
+Status 1 means motor is currently locked by the serial port.
 
