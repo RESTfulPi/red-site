@@ -13,53 +13,59 @@ This page lists all of the available requests in the API.
 {:toc}
 
 ---
-## Stand Up
+## Manual motor control
 {: .d-inline}
 
 POST
 {: .label .label-blue .mx-auto .d-inline}
 
+Used to manually set the position of a motor.
+
+| Argument | Description        | Range |
+|:---------|:-------------------|:------|
+| id       | The motor ID       | 1-25  |
+| position | The motor position | 0-254 |
+
+
 ### Example
 {: .no_toc}
 ```
-localhost:3000/move/stand-up
+localhost:50000/motor/23/127
 ```
 
 ### Response
 {: .no_toc}
 ```json
-{
-    "response":"1"
-}
 ```
 
 ### Notes
 {: .no_toc}
-If response is not 1, see maintenance manual for error codes.
 
 ---
-## Motor Information
+
+## Play motion
 {: .d-inline}
 
-GET
-{: .label .label-green .mx-auto .d-inline}
+POST
+{: .label .label-blue .mx-auto .d-inline}
+
+Used to execute a predefined motion on the robot.
+
+| Argument | Description            |
+|:---------|:-----------------------|
+| name     | The name of the motion |
 
 ### Example
 {: .no_toc}
 ```
-localhost:3000/motor/31
+localhost:50000/motion/gangnam-style
 ```
 
 ### Response
 {: .no_toc}
 ```json
-{
-    "angle":"270",
-    "status":"1"
-}
 ```
 
 ### Notes
 {: .no_toc}
-Status 1 means motor is currently locked by the serial port.
 

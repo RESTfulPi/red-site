@@ -1,16 +1,13 @@
 ---
 layout: default
-nav_order: 2
 parent: Development
 ---
 
-# Package Conversion
-{: .no_toc}
+# Client
+
+## Package Conversion
 
 The packages available on the robot had to be updated to be compatible with ROS2.
-
-- TOC
-{:toc}
 
 ---
 ## Overview
@@ -25,3 +22,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Broken Code
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
