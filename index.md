@@ -9,9 +9,13 @@ nav_order: 1
 This is the documentation for the development and usage of the REST API created for UXA90-Light robots.
 {: .fs-6 }
 
----
+# Overview
+The UXA-90 Robots were unusable in storage at Kennesaw State University since they were purchased in 2016. With just factory manuals and poorly translated documentation and little to no resources online, it was clear an investigation was needed to determine how to use the robots safely.
 
-#intro abstract scope
+A risk assessment was conducted, and this team created a certification program to ensure the safety of the individuals and the robots. A website was created to host the documentation of the assessment and certification for ease of access. After all students working on the robots were certified, all teams were given the greenlight to begin work. 
+
+To increase the accessibility of the robots, our team developed a React native mobile app integrated with a custom REST API. This API has full control of the robot via ROS 2.0, replacing the old and outdated software. 
+
 See the tab on the side for navigation.
 
 
