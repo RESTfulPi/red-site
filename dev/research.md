@@ -6,11 +6,14 @@ nav_order: 1
 
 # Research
 
-A lot of research had to be done so that we could document the technical specifications of the robot that were neded for development.
+A lot of research had to be done so that the technical specifications of the UXA-90 robot could be documented that were needed for development. The initial documentation that came with the robots was sparse on exact operating details of the robot. As such, initial research was done in operating proceedures of the robot and documented on the [training](training) page.
 
 ## Motor Ranges
 
-To document the motor ranges, we created a web app to select motors and control them with a slider, similar to what is in the app. We went through all of the motors and wrote down the minimum, maximum, and default position values for all of them, which are shown below.
+To document the motor ranges, A webapp was created to select motors and control them with a slider, similar to what is in the app. The following data about the motors was then determined:
+- Minimum
+- Maximum
+- Default position
 
 | Motor ID | Motion | Minimum | Default | Maximum | Notes |
 0 | Left foot tilt | 127 | 115 | 140 | Inwards to outwards
