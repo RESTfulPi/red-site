@@ -49,11 +49,7 @@ See the tab on the side for navigation.
         andrew@andrewloveless.net
       </p>
       <p class="text-muted">
-<<<<<<< HEAD
         Graduating May 2023. Currently employed.
-=======
-        Graduating May 2023 currently employed.
->>>>>>> 5e09a4f (Added presentation and poster, fixed images)
       </p>
     </div>
   </div>
