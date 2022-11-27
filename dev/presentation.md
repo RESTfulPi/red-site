@@ -20,14 +20,6 @@ The idea is that the poster is just to supplement the very hands-on presentation
 The video presentation had to be condensed a lot as well to fit everything into the time constraints given.
 Again, we opted to go light on reading material and instead took advantage of the video format to narrate the important information and show the rest through pictures and videos.
 
-<<<<<<< HEAD
-
 <div class="videoResponsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SJ3W0mXW8Ts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-=======
-<video controls>
-  <source src="/red-site/assets/videos/presentation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
->>>>>>> 5e09a4f (Added presentation and poster, fixed images)
