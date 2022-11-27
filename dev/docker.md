@@ -5,14 +5,14 @@ nav_order: 7
 ---
 
 # Docker
-In order to simplify installation and updates on the Raspberry Pi, Docker images containing the REST API and Robot Operating System Code were created in the late stages of development. All docker images are automatically built using Github Actions. To see information on that, see LINK.
+In order to simplify installation and updates on the Raspberry Pi, Docker images containing the REST API and Robot Operating System Code were created in the late stages of development. All docker images are automatically built using Github Actions. To see information on that, see [Github Actions](github-actions).
 
 ## Robot Operating System Container
 Docker provides prebuilt containers containing the necessary build tools and base libraries for the Robot Operating System. Using Docker's multistaged build process and the ROS development image `ros:humble`, our code is compiled and then copied over to another ROS image `ros:humble-ros-core`, which contains only the ROS runtime.
 ### Code
 
 {: .note }
-This container uses multiplatform base images, allowing docker's build chain to build for multiple platforms using the same Dockerfile. For more info see [Github Actions](github-actions#multiplatform-support).
+This container uses multiplatform base images, allowing docker's build chain to build for multiple platforms using the same Dockerfile. For more info see [Multiplatform Support](github-actions#multiplatform-support).
 
 ```Dockerfile
 ARG ROS_VERSION=humble
