@@ -107,7 +107,7 @@ This is a timeline of the development process. Click on topics to go to a more d
 10/09 - 10/15
 {: .label .label-blue .mx-auto .d-inline}
 
-[Package conversion](client#package-conversion)
+[Package conversion](ros#package-conversion)
 
 [REST API Documentation](rest-api#documentation)
 
@@ -118,7 +118,7 @@ This is a timeline of the development process. Click on topics to go to a more d
 10/16 - 10/22
 {: .label .label-blue .mx-auto .d-inline}
 
-[Client software](client)
+[Robot Operating System](ros)
 
 [REST API Prototype](rest-api#prototype)
 
@@ -127,7 +127,7 @@ This is a timeline of the development process. Click on topics to go to a more d
 10/23 - 10/29
 {: .label .label-blue .mx-auto .d-inline}
 
-[Client software](client)
+[Robot Operating System](ros)
 
 [REST API Server](rest-api#server)
 
@@ -136,7 +136,7 @@ This is a timeline of the development process. Click on topics to go to a more d
 10/30 - 11/05
 {: .label .label-blue .mx-auto .d-inline}
 
-[Client software](client)
+[Robot Operating System](ros)
 
 [REST API Client](rest-api#client)
 
@@ -148,9 +148,9 @@ This is a timeline of the development process. Click on topics to go to a more d
 11/06 - 11/12
 {: .label .label-blue .mx-auto .d-inline}
 
-[App](app)
+[Mobile App](app)
 
-[Client software](client)
+[Robot Operating System](ros)
 
 [REST API Client](rest-api#client)
 
@@ -165,9 +165,13 @@ This is a timeline of the development process. Click on topics to go to a more d
 11/13 - 11/19
 {: .label .label-blue .mx-auto .d-inline}
 
-[App](app)
+[Mobile App](app)
 
 [Client software](client)
+
+[Docker](docker)
+
+[Github Actions](github-actions)
 
 [Presentation](presentation)
 
@@ -183,6 +187,10 @@ This is a timeline of the development process. Click on topics to go to a more d
 {: .d-inline .no_toc}
 11/20 - 11/26
 {: .label .label-blue .mx-auto .d-inline}
+
+[Docker](docker)
+
+[Github Actions](github-actions)
 
 [Poster](presentation#poster)
 

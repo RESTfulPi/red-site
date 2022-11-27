@@ -31,7 +31,7 @@ See the tab on the side for navigation.
         derek@comella.net
       </p>
       <p class="text-muted">
-        Graduating December 2022. Looking for a fulltime software developer position willing to relocate.
+        Graduating December 2022. Looking for a fulltime software developer position, willing to relocate.
       </p>
     </div>
   </div>
