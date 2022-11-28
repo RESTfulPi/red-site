@@ -18,6 +18,8 @@ To increase the accessibility of the robots, our team developed a React native m
 
 See the tab on the side for navigation.
 
+To view our C-Day submissions, click [here](dev/presentation).
+
 
 # Our Team
 {: .mb-5 }
