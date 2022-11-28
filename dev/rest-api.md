@@ -31,8 +31,7 @@ These 2 existing environments and frameworks are standard and widely used for mo
 
 In order for the API server to perform robot actions, there needs to be a connection to ROS. It’s possible to communicate by sending messages over rose nodes. There is an existing Node.js package called [rclnodejs](https://www.npmjs.com/package/rclnodejs) that eases this process.
 
-## Prototype
-
-## Results
-
 ## API Documentation
+
+Full documentation for using the API can be found [here](api), or by exploring the API section in the tab on the side of the page.
+This serves as a way for others to utilize the power of the API without needing development experience.
