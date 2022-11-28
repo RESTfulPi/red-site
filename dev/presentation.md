@@ -1,6 +1,7 @@
 ---
 layout: default
 parent: Development
+title: C-Day Presentation
 ---
 
 # Presentation
