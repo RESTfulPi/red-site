@@ -31,6 +31,8 @@ and the motor tab lets the user manually select and control the motors on the ro
 - User scans a barcode using their device which will automatically connect them to the API if scanned successfully
 
 ## Remote Screen
+![Remote](/red-site/assets/images/app1.png){:class="img-responsive" width="45%"}
+
 ### Functionality
 - Set of buttons that allow the user to control the robot off their device
 - When a button is pressed, a motion is called using a fetch request to the API which sends in the motionID of the button pressed. Each button has a specific motionID
@@ -44,6 +46,9 @@ and the motor tab lets the user manually select and control the motors on the ro
 - buttonPress method calls API and passes in the motionID
 
 ## Motion Screen
+
+![Motion](/red-site/assets/images/app2.png){:class="img-responsive" width="45%"}
+
 ### Functionality
 - List of available motions that a user can select from
 - These available motions are requested from the API which allows for the future teams to build their own motions using the motion builder and be able to use them in the app
@@ -54,7 +59,7 @@ and the motor tab lets the user manually select and control the motors on the ro
 - Each motion item in the flatlist is rendered as a stylized TouchableOpacity component
 
 ## Motor Screen
-
+![Motor](/red-site/assets/images/app3.png){:class="img-responsive" width="45%"}
 ### Functionality
 - Allows the user to select a specific motor on the robot to control
 - Once motor is selected, a slider is used to manipulate the position of the motor
